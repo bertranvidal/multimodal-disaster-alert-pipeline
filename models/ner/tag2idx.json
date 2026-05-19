@@ -1,0 +1,16 @@
+{
+  "<PAD>": 0,
+  "B-AID_RESOURCE": 1,
+  "B-CASUALTY": 2,
+  "B-DISASTER": 3,
+  "B-INFRASTRUCTURE": 4,
+  "B-LOCATION": 5,
+  "B-ORG": 6,
+  "I-AID_RESOURCE": 7,
+  "I-CASUALTY": 8,
+  "I-DISASTER": 9,
+  "I-INFRASTRUCTURE": 10,
+  "I-LOCATION": 11,
+  "I-ORG": 12,
+  "O": 13
+}

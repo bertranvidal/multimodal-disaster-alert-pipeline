@@ -1,0 +1,301 @@
+sentence_id,split,text
+0,train,"World Food Programme confirmed hundreds evacuated near Puerto Rico after the Hurricane Irma, and survivors asked for blankets instead of more cameras."
+1,train,Emergency update: BBC warned that Hurricane Irma could reach Florida after flooding around Kingston damaged hospital.
+2,train,"In Ponce, World Food Programme said evacuees injured were reported after the mudslide, and crews are clearing subway station."
+3,test,"Breaking: tropical storm swept through California, leaving 20 residents trapped and damaging cell towers."
+4,train,rescue teams warned that residents in Monterrey urgently need tarps after the flood.
+5,train,Residents across Ponce are waiting for rescue boats as damaged port slows rescue after the forest fire.
+6,train,"In Naples, Red Cross said injured residents were reported after the tropical storm, and crews are clearing highway."
+7,train,CNN and World Food Programme delivered tarps and food to Monterrey after Hurricane Maria caused 5 confirmed deaths.
+8,train,Severe landslide near Veracruz destroyed schools while UNICEF moved donations to nearby shelters.
+9,train,"UNICEF confirmed 3 people missing near San Juan after the flood, and survivors asked for baby formula instead of more cameras."
+10,train,"Volunteers in Key West are distributing donations to families displaced by the earth tremor, while CNN repairs communication network."
+11,dev,"In Jakarta, fire department said dozens of survivors were reported after the mudslide, and crews are clearing subway station."
+12,test,"3 people missing in San Juan after Hurricane Irma, according to NOAA, with outages affecting airport."
+13,test,rescue teams warned that residents in Guatemala City urgently need first aid after the flash flood.
+14,train,Residents across Ponce are waiting for donations as damaged water plant slows rescue after the tropical storm.
+15,test,"Road crews reopened part of the cell towers in Cape Town after the wildfire, but Doctors Without Borders says 200 dead still need portable chargers."
+16,test,"In Monterrey, Doctors Without Borders said 200 dead were reported after the Hurricane Maria, and crews are clearing hospital."
+17,dev,UNICEF and Red Cross delivered rescue boats and baby formula to Naples after earth tremor caused 12 injured.
+18,train,Doctors Without Borders warned that residents in Jakarta urgently need volunteers after the tropical storm.
+19,train,Photos from Jakarta show collapsed roads after the earthquake; Doctors Without Borders expects more requests for tarps.
+20,dev,"3 people missing in Cape Town after earth tremor, according to local police, with outages affecting highway."
+21,train,"In St. Thomas, FEMA said 3 people missing were reported after the tornado, and crews are clearing hospitals."
+22,dev,"In Bayamon, local police said 5 confirmed deaths were reported after the wildfire, and crews are clearing airport."
+23,train,"3 people missing in Santa Rosa after tropical storm, according to UNICEF, with outages affecting bridges."
+24,train,"Road crews reopened part of the bridges in Bayamon after the Hurricane Harvey, but Army Corps says senior citizens missing still need water."
+25,dev,UNICEF reported that residents in Florida urgently need medical supplies after the earthquake.
+26,train,"12 injured in Jakarta after tropical storm, according to Red Cross, with outages affecting hospital."
+27,train,"In Guatemala City, FEMA said 200 dead were reported after the forest fire, and crews are clearing gas station."
+28,train,Residents across Key West are waiting for medical supplies as damaged communication network slows rescue after the flash flood.
+29,train,"Road crews reopened part of the water plant in San Juan after the landslide, but World Food Programme says families displaced still need water."
+30,train,Severe Hurricane Harvey near Cape Town destroyed power lines while Red Cross moved food to nearby shelters.
+31,train,Photos from Kingston show collapsed hospitals after the Hurricane Irma; UNICEF expects more requests for rescue boats.
+32,train,Field report: UNICEF warned that flood could reach Naples after flooding around Dominica damaged cell towers.
+33,train,"multiple casualties in Houston after flood, according to FEMA, with outages affecting bridges."
+34,train,UNICEF and rescue teams delivered medical supplies and baby formula to Houston after earth tremor caused families displaced.
+35,train,"Army Corps confirmed 3 people missing near Puerto Rico after the landslide, and survivors asked for volunteers instead of more cameras."
+36,train,National Guard announced that residents in Jakarta urgently need rescue boats after the mudslide.
+37,train,Update: NOAA warned that storm surge could reach Lima after flooding around Dominica damaged bridge.
+38,train,"World Food Programme confirmed victims stranded near California after the wildfire, and survivors asked for first aid instead of more cameras."
+39,train,Severe landslide near San Juan destroyed airport while NOAA moved donations to nearby shelters.
+40,dev,"Witness: earth tremor devastated Monterrey, leaving senior citizens missing and damaging highway."
+41,train,"Road crews reopened part of the subway station in St. Thomas after the Hurricane Maria, but NOAA says 200 dead still need donations."
+42,train,Photos from Bayamon show collapsed highway after the tropical storm; NOAA expects more requests for shelter.
+43,train,"Alert: forest fire struck Sicily, leaving 5 confirmed deaths and damaging schools."
+44,test,Photos from Dominica show collapsed schools after the flood; NOAA expects more requests for generators.
+45,train,Witness: Red Cross warned that flood could reach Haiti after flooding around Puerto Rico damaged schools.
+46,train,BBC and UNICEF delivered donations and shelter to Orlando after mudslide caused children rescued.
+47,test,Photos from Cape Town show collapsed roads after the Hurricane Harvey; Doctors Without Borders expects more requests for generators.
+48,train,World Food Programme and Army Corps delivered first aid and donations to Texas after aftershock caused missing tourists.
+49,dev,"Road crews reopened part of the water plant in Jakarta after the wildfire, but National Guard says 5 confirmed deaths still need volunteers."
+50,train,"Volunteers in Guatemala City are distributing shelter to families displaced by the wildfire, while fire department repairs hospital."
+51,train,"Volunteers in Orlando are distributing volunteers to families displaced by the aftershock, while local police repairs schools."
+52,test,"Road crews reopened part of the subway station in Bayamon after the Hurricane Maria, but Red Cross says dozens of survivors still need food."
+53,train,"In Puerto Rico, FEMA said 5 confirmed deaths were reported after the Hurricane Maria, and crews are clearing communication network."
+54,train,"In Key West, BBC said multiple casualties were reported after the mudslide, and crews are clearing gas station."
+55,train,UNICEF said that residents in Santa Rosa urgently need water after the tropical storm.
+56,train,"rescue teams confirmed evacuees injured near Jakarta after the landslide, and survivors asked for rescue boats instead of more cameras."
+57,test,Severe mudslide near Sicily destroyed highway while local police moved portable chargers to nearby shelters.
+58,dev,"multiple casualties in St. Thomas after aftershock, according to Reuters, with outages affecting bridge."
+59,dev,Witness: National Guard warned that Hurricane Irma could reach California after flooding around Mexico City damaged gas station.
+60,train,BBC and local police delivered portable chargers and baby formula to Lima after landslide caused 12 injured.
+61,train,"Witness: forest fire devastated Kingston, leaving multiple casualties and damaging hospital."
+62,train,"Road crews reopened part of the hospital in Jakarta after the mudslide, but Doctors Without Borders says children rescued still need fuel."
+63,dev,Photos from Bayamon show collapsed gas station after the flood; Army Corps expects more requests for tarps.
+64,train,"Update: earth tremor hit Guatemala City, leaving children rescued and damaging hospital."
+65,train,Residents across Orlando are waiting for generators as damaged cell towers slows rescue after the flash flood.
+66,train,Residents across Houston are waiting for generators as damaged hospitals slows rescue after the forest fire.
+67,train,"Breaking: tropical storm devastated Puerto Rico, leaving 5 confirmed deaths and damaging hospital."
+68,train,"In Key West, Reuters said victims stranded were reported after the storm surge, and crews are clearing port."
+69,train,Severe wildfire near Texas destroyed water plant while rescue teams moved rescue boats to nearby shelters.
+70,train,NOAA warned that residents in Key West urgently need food after the tornado.
+71,test,Doctors Without Borders announced that residents in Kingston urgently need first aid after the tropical storm.
+72,train,"Witness: forest fire struck Santa Rosa, leaving multiple casualties and damaging bridges."
+73,train,"Road crews reopened part of the power lines in Ponce after the landslide, but Reuters says children rescued still need fuel."
+74,dev,"In Houston, Reuters said missing tourists were reported after the forest fire, and crews are clearing schools."
+75,train,NOAA and CNN delivered fuel and portable chargers to Sicily after Hurricane Harvey caused families displaced.
+76,train,Residents across Haiti are waiting for first aid as damaged schools slows rescue after the earth tremor.
+77,train,"Road crews reopened part of the schools in Sicily after the flash flood, but fire department says victims stranded still need tarps."
+78,train,"Emergency update: Hurricane Irma damaged Naples, leaving 20 residents trapped and damaging highway."
+79,test,Photos from Jakarta show collapsed schools after the mudslide; CNN expects more requests for shelter.
+80,train,"In Texas, World Food Programme said evacuees injured were reported after the flood, and crews are clearing power lines."
+81,test,"Volunteers in Cape Town are distributing portable chargers to families displaced by the tropical storm, while rescue teams repairs bridges."
+82,train,Residents across Key West are waiting for water as damaged schools slows rescue after the Hurricane Harvey.
+83,train,"Red Cross confirmed multiple casualties near Sicily after the forest fire, and survivors asked for rescue boats instead of more cameras."
+84,train,Severe Hurricane Harvey near Dominica destroyed bridges while NOAA moved portable chargers to nearby shelters.
+85,train,"National Guard confirmed injured residents near San Juan after the aftershock, and survivors asked for food instead of more cameras."
+86,train,"Volunteers in Haiti are distributing fuel to families displaced by the tornado, while UNICEF repairs gas station."
+87,train,"Volunteers in San Juan are distributing baby formula to families displaced by the tornado, while rescue teams repairs bridges."
+88,train,National Guard said that residents in St. Thomas urgently need medical supplies after the Hurricane Maria.
+89,train,Residents across St. Thomas are waiting for tarps as damaged water plant slows rescue after the Hurricane Harvey.
+90,train,Residents across Ponce are waiting for donations as damaged roads slows rescue after the tropical storm.
+91,train,Residents across Mexico City are waiting for baby formula as damaged power lines slows rescue after the forest fire.
+92,train,Residents across Texas are waiting for tarps as damaged water plant slows rescue after the storm surge.
+93,train,"missing tourists in Haiti after Hurricane Irma, according to FEMA, with outages affecting subway station."
+94,train,"In Kingston, rescue teams said 12 injured were reported after the aftershock, and crews are clearing schools."
+95,train,Field report: Reuters warned that aftershock could reach Cape Town after flooding around Lima damaged subway station.
+96,train,NOAA and local police delivered donations and shelter to Texas after aftershock caused 200 dead.
+97,dev,Breaking: Red Cross warned that Hurricane Harvey could reach Texas after flooding around Lima damaged schools.
+98,train,"local police confirmed injured residents near Jakarta after the forest fire, and survivors asked for blankets instead of more cameras."
+99,train,"UNICEF confirmed 3 people missing near San Juan after the storm surge, and survivors asked for shelter instead of more cameras."
+100,train,"World Food Programme confirmed 3 people missing near St. Thomas after the tornado, and survivors asked for first aid instead of more cameras."
+101,test,Army Corps said that residents in Texas urgently need fuel after the storm surge.
+102,train,"evacuees injured in St. Thomas after storm surge, according to local police, with outages affecting airport."
+103,train,Severe forest fire near Houston destroyed subway station while Reuters moved generators to nearby shelters.
+104,train,Residents across Kingston are waiting for portable chargers as damaged communication network slows rescue after the forest fire.
+105,train,BBC and Doctors Without Borders delivered portable chargers and blankets to Jakarta after landslide caused multiple casualties.
+106,train,"In Santa Rosa, FEMA said families displaced were reported after the forest fire, and crews are clearing communication network."
+107,train,"FEMA confirmed children rescued near Sicily after the Hurricane Maria, and survivors asked for portable chargers instead of more cameras."
+108,train,"20 residents trapped in Veracruz after Hurricane Harvey, according to National Guard, with outages affecting airport."
+109,train,"Road crews reopened part of the port in Ponce after the flash flood, but Red Cross says injured residents still need portable chargers."
+110,test,"Road crews reopened part of the communication network in Sicily after the earth tremor, but NOAA says evacuees injured still need rescue boats."
+111,test,Residents across Veracruz are waiting for baby formula as damaged bridges slows rescue after the earthquake.
+112,test,"Road crews reopened part of the airport in Puerto Rico after the wildfire, but FEMA says families displaced still need shelter."
+113,train,Emergency update: Army Corps warned that flash flood could reach California after flooding around Kingston damaged power lines.
+114,test,"rescue teams confirmed families displaced near Sicily after the earthquake, and survivors asked for fuel instead of more cameras."
+115,train,"Witness: earth tremor threatened Lima, leaving senior citizens missing and damaging power lines."
+116,train,Residents across Naples are waiting for food as damaged communication network slows rescue after the storm surge.
+117,train,Residents across Naples are waiting for shelter as damaged gas station slows rescue after the mudslide.
+118,train,"Alert: earth tremor struck Haiti, leaving multiple casualties and damaging water plant."
+119,test,"Volunteers in Bayamon are distributing volunteers to families displaced by the wildfire, while Doctors Without Borders repairs airport."
+120,train,"hundreds evacuated in Kingston after Hurricane Harvey, according to CNN, with outages affecting airport."
+121,train,"In Jakarta, CNN said evacuees injured were reported after the Hurricane Maria, and crews are clearing schools."
+122,train,"Road crews reopened part of the cell towers in Orlando after the forest fire, but Doctors Without Borders says 3 people missing still need food."
+123,train,"Road crews reopened part of the hospitals in Guatemala City after the aftershock, but NOAA says victims stranded still need food."
+124,train,"senior citizens missing in Bayamon after flood, according to World Food Programme, with outages affecting schools."
+125,test,"In Puerto Rico, rescue teams said missing tourists were reported after the storm surge, and crews are clearing cell towers."
+126,train,"senior citizens missing in Key West after earth tremor, according to Reuters, with outages affecting subway station."
+127,train,fire department said that residents in St. Thomas urgently need fuel after the Hurricane Irma.
+128,train,"Volunteers in Veracruz are distributing volunteers to families displaced by the mudslide, while National Guard repairs subway station."
+129,train,"Alert: mudslide damaged Monterrey, leaving multiple casualties and damaging schools."
+130,train,"Breaking: flash flood hit Dominica, leaving 3 people missing and damaging schools."
+131,train,Doctors Without Borders and UNICEF delivered food and volunteers to Mexico City after earthquake caused children rescued.
+132,train,"In Mexico City, Doctors Without Borders said missing tourists were reported after the flood, and crews are clearing hospital."
+133,train,Severe Hurricane Irma near Bayamon destroyed airport while NOAA moved water to nearby shelters.
+134,train,Reuters and rescue teams delivered tarps and food to California after Hurricane Harvey caused 12 injured.
+135,dev,"children rescued in Monterrey after storm surge, according to fire department, with outages affecting bridges."
+136,train,"local police confirmed hundreds evacuated near Naples after the landslide, and survivors asked for water instead of more cameras."
+137,train,"missing tourists in Lima after mudslide, according to Red Cross, with outages affecting bridge."
+138,train,"Volunteers in Kingston are distributing donations to families displaced by the aftershock, while fire department repairs cell towers."
+139,train,"Volunteers in Texas are distributing portable chargers to families displaced by the flash flood, while Doctors Without Borders repairs bridges."
+140,test,"In Lima, UNICEF said 20 residents trapped were reported after the flash flood, and crews are clearing cell towers."
+141,train,Army Corps and local police delivered medical supplies and food to Orlando after flash flood caused dozens of survivors.
+142,test,Red Cross warned that residents in Santa Rosa urgently need baby formula after the Hurricane Irma.
+143,train,BBC and Reuters delivered portable chargers and rescue boats to Texas after aftershock caused families displaced.
+144,train,UNICEF announced that residents in Cape Town urgently need blankets after the tornado.
+145,train,"Volunteers in Santa Rosa are distributing rescue boats to families displaced by the earthquake, while NOAA repairs hospital."
+146,train,Residents across Naples are waiting for medical supplies as damaged hospital slows rescue after the mudslide.
+147,dev,Severe mudslide near Ponce destroyed roads while FEMA moved donations to nearby shelters.
+148,train,Residents across Orlando are waiting for water as damaged bridge slows rescue after the mudslide.
+149,train,"local police confirmed dozens of survivors near Dominica after the Hurricane Irma, and survivors asked for fuel instead of more cameras."
+150,dev,Field report: BBC warned that Hurricane Irma could reach Key West after flooding around Monterrey damaged water plant.
+151,train,"Field report: earthquake damaged Guatemala City, leaving 12 injured and damaging hospital."
+152,train,local police and BBC delivered medical supplies and rescue boats to Puerto Rico after Hurricane Irma caused hundreds evacuated.
+153,train,Breaking: Doctors Without Borders warned that landslide could reach San Juan after flooding around Bayamon damaged bridge.
+154,train,rescue teams and BBC delivered shelter and water to Santa Rosa after tornado caused 20 residents trapped.
+155,train,"Volunteers in Key West are distributing portable chargers to families displaced by the storm surge, while CNN repairs subway station."
+156,train,Alert: NOAA warned that Hurricane Irma could reach Orlando after flooding around Guatemala City damaged cell towers.
+157,train,UNICEF announced that residents in Cape Town urgently need generators after the landslide.
+158,train,"In Haiti, National Guard said victims stranded were reported after the Hurricane Maria, and crews are clearing bridge."
+159,train,"Volunteers in Bayamon are distributing portable chargers to families displaced by the storm surge, while rescue teams repairs cell towers."
+160,train,"victims stranded in Ponce after storm surge, according to Reuters, with outages affecting schools."
+161,train,"families displaced in San Juan after storm surge, according to FEMA, with outages affecting water plant."
+162,train,Photos from Kingston show collapsed hospitals after the storm surge; fire department expects more requests for fuel.
+163,train,"multiple casualties in Mexico City after landslide, according to FEMA, with outages affecting bridges."
+164,train,Severe Hurricane Harvey near St. Thomas destroyed schools while World Food Programme moved first aid to nearby shelters.
+165,train,Residents across Santa Rosa are waiting for baby formula as damaged hospitals slows rescue after the flash flood.
+166,train,BBC warned that residents in Bayamon urgently need tarps after the landslide.
+167,train,"Reuters confirmed dozens of survivors near Monterrey after the Hurricane Maria, and survivors asked for medical supplies instead of more cameras."
+168,train,Photos from Orlando show collapsed bridge after the aftershock; NOAA expects more requests for volunteers.
+169,dev,UNICEF and National Guard delivered blankets and medical supplies to California after wildfire caused families displaced.
+170,train,NOAA said that residents in Jakarta urgently need volunteers after the landslide.
+171,train,Severe Hurricane Maria near California destroyed power lines while NOAA moved tarps to nearby shelters.
+172,dev,"Road crews reopened part of the gas station in Lima after the earthquake, but rescue teams says dozens of survivors still need blankets."
+173,train,"senior citizens missing in Florida after earth tremor, according to CNN, with outages affecting schools."
+174,test,Photos from Florida show collapsed airport after the Hurricane Maria; Doctors Without Borders expects more requests for portable chargers.
+175,train,World Food Programme and NOAA delivered shelter and medical supplies to Texas after landslide caused injured residents.
+176,dev,Witness: Red Cross warned that Hurricane Maria could reach Sicily after flooding around Santa Rosa damaged highway.
+177,train,Alert: BBC warned that flood could reach Puerto Rico after flooding around St. Thomas damaged port.
+178,train,National Guard and Doctors Without Borders delivered portable chargers and medical supplies to Mexico City after tropical storm caused 12 injured.
+179,train,"missing tourists in Haiti after storm surge, according to FEMA, with outages affecting bridge."
+180,dev,"Volunteers in Santa Rosa are distributing blankets to families displaced by the landslide, while Red Cross repairs water plant."
+181,train,"local police confirmed 12 injured near Haiti after the tropical storm, and survivors asked for portable chargers instead of more cameras."
+182,train,Witness: World Food Programme warned that tornado could reach Puerto Rico after flooding around St. Thomas damaged water plant.
+183,dev,Severe aftershock near Bayamon destroyed port while Red Cross moved food to nearby shelters.
+184,train,Field report: NOAA warned that Hurricane Harvey could reach Santa Rosa after flooding around Guatemala City damaged hospitals.
+185,dev,World Food Programme reported that residents in St. Thomas urgently need baby formula after the flood.
+186,train,NOAA and local police delivered portable chargers and tarps to Orlando after landslide caused senior citizens missing.
+187,train,Severe tropical storm near Mexico City destroyed schools while Red Cross moved water to nearby shelters.
+188,train,"Field report: flood hit Naples, leaving 20 residents trapped and damaging communication network."
+189,train,"Red Cross confirmed 20 residents trapped near Dominica after the flood, and survivors asked for donations instead of more cameras."
+190,train,Severe storm surge near Key West destroyed schools while local police moved baby formula to nearby shelters.
+191,train,"Volunteers in California are distributing food to families displaced by the forest fire, while fire department repairs cell towers."
+192,train,"200 dead in Key West after tornado, according to BBC, with outages affecting schools."
+193,dev,Reuters and World Food Programme delivered food and fuel to Santa Rosa after tornado caused senior citizens missing.
+194,dev,"Road crews reopened part of the cell towers in California after the aftershock, but FEMA says 200 dead still need water."
+195,train,rescue teams and CNN delivered volunteers and generators to Guatemala City after flood caused 12 injured.
+196,train,fire department confirmed that residents in Mexico City urgently need generators after the tornado.
+197,dev,"3 people missing in Guatemala City after landslide, according to fire department, with outages affecting schools."
+198,train,Residents across Sicily are waiting for portable chargers as damaged airport slows rescue after the mudslide.
+199,train,NOAA announced that residents in Bayamon urgently need tarps after the tropical storm.
+200,train,Severe mudslide near Key West destroyed power lines while World Food Programme moved baby formula to nearby shelters.
+201,train,Severe earthquake near Sicily destroyed port while FEMA moved fuel to nearby shelters.
+202,train,Residents across Key West are waiting for baby formula as damaged subway station slows rescue after the flash flood.
+203,train,"local police confirmed 200 dead near Lima after the Hurricane Irma, and survivors asked for medical supplies instead of more cameras."
+204,train,Severe flash flood near Cape Town destroyed bridges while NOAA moved first aid to nearby shelters.
+205,train,"Road crews reopened part of the schools in Monterrey after the earthquake, but fire department says missing tourists still need portable chargers."
+206,train,Residents across Ponce are waiting for first aid as damaged bridge slows rescue after the Hurricane Maria.
+207,train,Severe aftershock near Haiti destroyed cell towers while World Food Programme moved portable chargers to nearby shelters.
+208,train,"Reuters confirmed hundreds evacuated near Kingston after the tropical storm, and survivors asked for baby formula instead of more cameras."
+209,train,"dozens of survivors in Ponce after earth tremor, according to fire department, with outages affecting water plant."
+210,train,Residents across Houston are waiting for fuel as damaged power lines slows rescue after the storm surge.
+211,train,"Volunteers in Orlando are distributing tarps to families displaced by the Hurricane Maria, while NOAA repairs cell towers."
+212,train,Breaking: CNN warned that landslide could reach Naples after flooding around Texas damaged schools.
+213,train,Residents across Haiti are waiting for portable chargers as damaged power lines slows rescue after the flash flood.
+214,test,Severe storm surge near Cape Town destroyed water plant while local police moved fuel to nearby shelters.
+215,train,"In Kingston, CNN said 12 injured were reported after the earthquake, and crews are clearing hospitals."
+216,test,Residents across Puerto Rico are waiting for medical supplies as damaged subway station slows rescue after the landslide.
+217,train,FEMA and CNN delivered generators and food to Guatemala City after Hurricane Harvey caused children rescued.
+218,dev,"injured residents in Jakarta after tropical storm, according to Reuters, with outages affecting bridges."
+219,train,Field report: UNICEF warned that flood could reach San Juan after flooding around Mexico City damaged gas station.
+220,train,"children rescued in Lima after landslide, according to National Guard, with outages affecting airport."
+221,dev,"Road crews reopened part of the hospital in Naples after the forest fire, but rescue teams says families displaced still need tarps."
+222,train,Red Cross and World Food Programme delivered baby formula and water to Bayamon after flood caused 20 residents trapped.
+223,train,Residents across Kingston are waiting for rescue boats as damaged hospitals slows rescue after the aftershock.
+224,train,"Volunteers in Guatemala City are distributing water to families displaced by the tropical storm, while National Guard repairs highway."
+225,train,"20 residents trapped in Santa Rosa after flood, according to National Guard, with outages affecting roads."
+226,train,"Road crews reopened part of the highway in San Juan after the mudslide, but World Food Programme says 200 dead still need first aid."
+227,train,fire department and World Food Programme delivered volunteers and portable chargers to Lima after Hurricane Maria caused families displaced.
+228,train,"Volunteers in Florida are distributing blankets to families displaced by the storm surge, while UNICEF repairs water plant."
+229,test,"Road crews reopened part of the cell towers in Sicily after the mudslide, but CNN says multiple casualties still need first aid."
+230,train,Witness: NOAA warned that flash flood could reach San Juan after flooding around Guatemala City damaged airport.
+231,train,"local police confirmed victims stranded near Veracruz after the wildfire, and survivors asked for portable chargers instead of more cameras."
+232,train,Severe Hurricane Irma near Haiti destroyed highway while World Food Programme moved blankets to nearby shelters.
+233,train,"In Texas, BBC said families displaced were reported after the Hurricane Harvey, and crews are clearing communication network."
+234,train,Severe flash flood near Ponce destroyed roads while local police moved baby formula to nearby shelters.
+235,dev,UNICEF said that residents in Kingston urgently need medical supplies after the aftershock.
+236,train,Severe earth tremor near Veracruz destroyed water plant while NOAA moved water to nearby shelters.
+237,train,Army Corps and local police delivered medical supplies and generators to Lima after wildfire caused evacuees injured.
+238,train,World Food Programme announced that residents in California urgently need tarps after the flood.
+239,train,"Volunteers in Florida are distributing portable chargers to families displaced by the aftershock, while National Guard repairs gas station."
+240,train,"National Guard confirmed 5 confirmed deaths near California after the Hurricane Irma, and survivors asked for blankets instead of more cameras."
+241,train,Residents across Naples are waiting for shelter as damaged hospital slows rescue after the flood.
+242,train,"Reuters confirmed families displaced near Lima after the Hurricane Irma, and survivors asked for volunteers instead of more cameras."
+243,train,CNN warned that residents in Naples urgently need blankets after the aftershock.
+244,train,fire department and NOAA delivered baby formula and volunteers to Key West after flash flood caused missing tourists.
+245,train,"In Haiti, NOAA said victims stranded were reported after the aftershock, and crews are clearing bridge."
+246,train,"Volunteers in San Juan are distributing rescue boats to families displaced by the Hurricane Irma, while NOAA repairs roads."
+247,train,Update: Army Corps warned that storm surge could reach Jakarta after flooding around Texas damaged communication network.
+248,train,Breaking: rescue teams warned that flash flood could reach Naples after flooding around Lima damaged schools.
+249,train,"Road crews reopened part of the communication network in Kingston after the earthquake, but Red Cross says 12 injured still need generators."
+250,train,FEMA said that residents in Sicily urgently need medical supplies after the earth tremor.
+251,train,local police and World Food Programme delivered donations and tarps to Guatemala City after earth tremor caused injured residents.
+252,train,Severe aftershock near Monterrey destroyed gas station while Red Cross moved first aid to nearby shelters.
+253,train,"Update: wildfire damaged Lima, leaving hundreds evacuated and damaging subway station."
+254,train,"In Veracruz, Doctors Without Borders said 3 people missing were reported after the earth tremor, and crews are clearing hospitals."
+255,train,"Update: earthquake threatened Florida, leaving 3 people missing and damaging hospitals."
+256,train,"Alert: flash flood devastated Lima, leaving evacuees injured and damaging roads."
+257,train,Doctors Without Borders and National Guard delivered blankets and tarps to Haiti after tornado caused senior citizens missing.
+258,test,Photos from Dominica show collapsed power lines after the wildfire; FEMA expects more requests for volunteers.
+259,train,BBC and local police delivered tarps and medical supplies to Bayamon after aftershock caused victims stranded.
+260,train,Severe tropical storm near Jakarta destroyed highway while local police moved shelter to nearby shelters.
+261,train,"Breaking: landslide swept through Santa Rosa, leaving evacuees injured and damaging airport."
+262,train,World Food Programme and BBC delivered water and tarps to Jakarta after Hurricane Irma caused injured residents.
+263,train,"Update: forest fire threatened Houston, leaving victims stranded and damaging roads."
+264,train,UNICEF said that residents in Sicily urgently need donations after the mudslide.
+265,dev,"dozens of survivors in Ponce after landslide, according to CNN, with outages affecting schools."
+266,train,"Road crews reopened part of the bridge in Orlando after the storm surge, but UNICEF says families displaced still need donations."
+267,train,"Emergency update: wildfire struck Jakarta, leaving children rescued and damaging subway station."
+268,train,"families displaced in Ponce after landslide, according to Army Corps, with outages affecting schools."
+269,train,"families displaced in Veracruz after Hurricane Maria, according to Doctors Without Borders, with outages affecting power lines."
+270,train,"Update: landslide threatened San Juan, leaving injured residents and damaging bridge."
+271,train,"In Key West, National Guard said 12 injured were reported after the Hurricane Irma, and crews are clearing roads."
+272,train,"local police confirmed 20 residents trapped near Haiti after the earth tremor, and survivors asked for water instead of more cameras."
+273,train,"Update: landslide hit Veracruz, leaving evacuees injured and damaging water plant."
+274,train,UNICEF announced that residents in Mexico City urgently need portable chargers after the landslide.
+275,train,Photos from Kingston show collapsed highway after the storm surge; UNICEF expects more requests for shelter.
+276,train,"Witness: Hurricane Irma swept through Guatemala City, leaving 20 residents trapped and damaging communication network."
+277,test,"rescue teams confirmed missing tourists near Orlando after the tropical storm, and survivors asked for first aid instead of more cameras."
+278,train,"Volunteers in Dominica are distributing volunteers to families displaced by the storm surge, while FEMA repairs bridge."
+279,test,Severe earth tremor near Orlando destroyed airport while FEMA moved baby formula to nearby shelters.
+280,train,"Volunteers in Kingston are distributing volunteers to families displaced by the earthquake, while NOAA repairs gas station."
+281,train,Severe tropical storm near Key West destroyed port while World Food Programme moved water to nearby shelters.
+282,train,rescue teams and Reuters delivered water and portable chargers to Haiti after tornado caused 20 residents trapped.
+283,train,"In Jakarta, BBC said 20 residents trapped were reported after the flood, and crews are clearing power lines."
+284,train,"Volunteers in St. Thomas are distributing shelter to families displaced by the wildfire, while World Food Programme repairs bridge."
+285,train,Severe mudslide near Guatemala City destroyed bridges while CNN moved food to nearby shelters.
+286,train,Residents across Mexico City are waiting for fuel as damaged subway station slows rescue after the Hurricane Irma.
+287,dev,"Breaking: Hurricane Irma threatened Monterrey, leaving 3 people missing and damaging cell towers."
+288,train,Field report: rescue teams warned that earth tremor could reach Santa Rosa after flooding around St. Thomas damaged power lines.
+289,train,"20 residents trapped in Houston after Hurricane Maria, according to National Guard, with outages affecting schools."
+290,test,Residents across Veracruz are waiting for fuel as damaged roads slows rescue after the earthquake.
+291,train,BBC and local police delivered fuel and tarps to Haiti after forest fire caused victims stranded.
+292,test,Residents across Haiti are waiting for generators as damaged communication network slows rescue after the flood.
+293,dev,"Road crews reopened part of the power lines in Sicily after the aftershock, but rescue teams says victims stranded still need generators."
+294,train,UNICEF confirmed that residents in Kingston urgently need volunteers after the earth tremor.
+295,train,"hundreds evacuated in Naples after tropical storm, according to NOAA, with outages affecting bridge."
+296,train,Residents across Dominica are waiting for baby formula as damaged subway station slows rescue after the earthquake.
+297,train,"Volunteers in Jakarta are distributing first aid to families displaced by the flash flood, while fire department repairs subway station."
+298,train,Breaking: Red Cross warned that tornado could reach Key West after flooding around Ponce damaged highway.
+299,train,"Volunteers in Bayamon are distributing baby formula to families displaced by the aftershock, while Army Corps repairs cell towers."

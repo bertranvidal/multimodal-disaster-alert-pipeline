@@ -1,0 +1,23 @@
+{
+  "embedding_dim": 128,
+  "char_embedding_dim": 32,
+  "char_num_filters": 32,
+  "hidden_dim": 160,
+  "dropout": 0.35,
+  "word_dropout": 0.08,
+  "num_epochs": 18,
+  "batch_size": 16,
+  "learning_rate": 0.0008,
+  "weight_decay": 0.0001,
+  "original_train_sentences": 240,
+  "augmented_train_sentences": 1096,
+  "train_sentences": 1336,
+  "best_dev_macro_f1": 1.0,
+  "best_dev_entity_f1": 1.0,
+  "test_macro_f1": 0.9934828560354507,
+  "test_micro_f1": 0.9949409780775716,
+  "test_entity_f1": 0.9794520547945206,
+  "hard_test_macro_f1": 0.8889279849519032,
+  "hard_test_micro_f1": 0.9102564102564102,
+  "hard_test_entity_f1": 0.8161764705882353
+}
