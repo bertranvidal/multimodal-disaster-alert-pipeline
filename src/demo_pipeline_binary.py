@@ -95,7 +95,7 @@ def save_demo_figure(
         f"{textwrap.fill(caption, 70)}\n\n"
         "NER\n"
         f"{format_entities(entities)}\n\n"
-        "SA binary\n"
+        "Damage classification\n"
         f"label: {sa_label}\n"
         f"no_damage: {probabilities[0]:.4f}\n"
         f"damage: {probabilities[1]:.4f}\n\n"
@@ -169,7 +169,7 @@ def main() -> None:
     print("--- NER ---")
     print(format_entities(entities))
     print()
-    print("--- SA BINARY ---")
+    print("--- DAMAGE CLASSIFICATION ---")
     print("Label:", sa_label)
     print(f"no_damage: {probabilities[0]:.4f}")
     print(f"damage: {probabilities[1]:.4f}")

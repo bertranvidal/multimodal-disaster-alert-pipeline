@@ -63,13 +63,13 @@ def run_pipeline(
     entities = predict_ner(combined_text)
     print("\nEntities:", entities)
 
-    # 3. SA
+    # 3. Damage classification
     _, label, probs = predict_sa_binary(text=text, caption=caption)
     severity = 2 if label == "damage" else 0
-    print("Damage class:", label)
+    print("Damage classification:", label)
     print(f"Probabilities: no_damage={probs[0]:.4f}, damage={probs[1]:.4f}")
 
-    # 4. Alert final
+    # 4. Final alert
     alert = generate_alert(
         original_text=text,
         caption=caption,
